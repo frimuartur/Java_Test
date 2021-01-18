@@ -7,4 +7,8 @@ gradlew
 gradlew.bat
 settings.gradle
 build/
+src/main/java/Control.java
+src/main/java/ToString.java
+
+
 
